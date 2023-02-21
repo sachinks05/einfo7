@@ -14,3 +14,6 @@ driver.123
 a ="sachin"
 b= "sachinks"
 c = "sachinsachu"
+
+print(a,b,c)
+

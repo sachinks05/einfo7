@@ -5,3 +5,8 @@ driver=Chrome(r"C:\Users\SACHIN\Desktop\training\chromedriver.exe")
 #url="https://www.flipkart.com/offers-store"
 driver = webdriver
 driver.123
+a = "sachinks"
+print(a)
+
+b = "ananya"
+print(b)
